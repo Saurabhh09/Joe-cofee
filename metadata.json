@@ -1,0 +1,6 @@
+{
+  "name": "Joe's Coffee",
+  "description": "Artisanal espresso bar and bakery featuring handcrafted drinks, fresh pastries, and private event hosting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
